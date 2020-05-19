@@ -1,4 +1,4 @@
-
+# Clean the data set download from Taiwan's Central Weather Bureau
 
 import pandas as pd
 import numpy as np
